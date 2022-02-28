@@ -11,7 +11,7 @@ $i = 0;
 
 while ($i <= $arrayLength)
         {
-            echo $aplikasi[$i];
+            echo $aplikasi[$i].'-';
             $i++;
         }
 ?>
